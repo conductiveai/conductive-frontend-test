@@ -1,4 +1,7 @@
-# Conductive.ai Frontend Engineer Test: Sankey Chart Visualization
+![Conductive Logo](https://i.imgur.com/NRNOc7P.png)
+
+
+# Frontend Engineer Test: Sankey Chart Visualization
 
 Hi there! 👋
 
